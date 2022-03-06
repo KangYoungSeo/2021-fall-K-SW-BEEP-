@@ -1,9 +1,10 @@
 # 2021-fall-K-SW-BEEP-
 experimental field 및 sensor board, Location decision algorithm 
 
-## Research problem statement
+## Research problem statement & Significance
 In existing researches, fire is detected using image data. 
 but in this case, the amount of data to be processed increases and the fire cannot be prevented in the early stages due to time.
+This research detects fires with small data and reduces the amount of data that can finally be processed.
 
 
 ## Environment settings
