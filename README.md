@@ -1,0 +1,24 @@
+# 2021-fall-K-SW-BEEP-
+experimental field 및 sensor board, Location decision algorithm 
+
+  
+## 4. Environment settings
+####  a. experimental field : 
++ consists of a square with side lengths of 48 inches, a grid of 4 by 4 lines on the field.
+
+<img src="https://user-images.githubusercontent.com/68414594/144638993-e1e913e3-b151-4eb4-8126-1b5cd7c4591d.jpg" width="400" height="400"/>
+
+    
+####  b. sensor board :
++ equipped in each corner
++ connected to the Arduino to detect fire attached to sensor towers
++ using Arduino MKR WAN 1310 supported by LoRa 
++ Developing Environment : Windows / Arduino IDE 1.8.16 with LoRa Library
+
+<img src="https://user-images.githubusercontent.com/68414594/144638937-8e28a914-87dd-49e5-b0cc-3416339c6a23.jpg" width="400" height="400"/>
+
+
+####  c. concentrator : 
++ Arduino MKR WAN 1310 supported by LoRa
++ Raspberry Pi 4 Model B
++ Developing Environment : Windows / Arduino IDE 1.8.16
