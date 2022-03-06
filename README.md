@@ -1,4 +1,4 @@
-# 2021 fall K-SW project : team <BEEP>
+# 2021 fall K-SW project : team 'BEEP'
 experimental field 및 sensor board, Location decision algorithm 
 
 ## Research problem statement & Significance
