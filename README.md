@@ -20,7 +20,9 @@ This research detects fires with small data and reduces the amount of data that 
 + using Arduino MKR WAN 1310 supported by LoRa 
 + Developing Environment : Windows / Arduino IDE 1.8.16 with LoRa Library
 
-<img src="https://user-images.githubusercontent.com/68414594/144638937-8e28a914-87dd-49e5-b0cc-3416339c6a23.jpg" width="400" height="400"/>
+![image](https://user-images.githubusercontent.com/68414594/156910571-fb0560d8-b490-432a-a6c7-f2979ba6390d.png)
+![image](https://user-images.githubusercontent.com/68414594/156910575-c718edf8-45c5-44a9-bc6f-22946883b7cd.png)
+
 
 
 ####  c. concentrator : 
