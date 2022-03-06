@@ -1,7 +1,11 @@
 # 2021-fall-K-SW-BEEP-
 experimental field 및 sensor board, Location decision algorithm 
 
-  
+## Research problem statement
+In existing researches, fire is detected using image data. 
+but in this case, the amount of data to be processed increases and the fire cannot be prevented in the early stages due to time.
+
+
 ## Environment settings
 ####  a. experimental field : 
 + consists of a square with side lengths of 48 inches, a grid of 4 by 4 lines on the field.
