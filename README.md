@@ -2,7 +2,7 @@
 experimental field 및 sensor board, Location decision algorithm 
 
   
-## 4. Environment settings
+## Environment settings
 ####  a. experimental field : 
 + consists of a square with side lengths of 48 inches, a grid of 4 by 4 lines on the field.
 
