@@ -21,7 +21,8 @@ This research detects fires with small data and reduces the amount of data that 
 + Developing Environment : Windows / Arduino IDE 1.8.16 with LoRa Library
 
 ![image](https://user-images.githubusercontent.com/68414594/156910571-fb0560d8-b490-432a-a6c7-f2979ba6390d.png)
-![image](https://user-images.githubusercontent.com/68414594/156910575-c718edf8-45c5-44a9-bc6f-22946883b7cd.png)
+![image](https://user-images.githubusercontent.com/68414594/156910635-822c2ff4-44d2-4811-8357-765675178903.png)
+
 
 
 
