@@ -22,7 +22,7 @@ This research detects fires with small data and reduces the amount of data that 
 
 ![image](https://user-images.githubusercontent.com/68414594/156910571-fb0560d8-b490-432a-a6c7-f2979ba6390d.png)
 
-+ Sensor board's Arduino circuit <br>
++ Sensor board's Arduino circuit <br><br>
 ![image](https://user-images.githubusercontent.com/68414594/156910635-822c2ff4-44d2-4811-8357-765675178903.png)
 
 
