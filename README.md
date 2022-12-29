@@ -1,5 +1,5 @@
 # 2021 fall K-SW project : team 'BEEP'
-experimental field 및 sensor board, Location decision algorithm 
+experimental field and sensor board, Location decision algorithm 
 
 ## Research problem statement & Significance
 In existing researches, fire is detected using image data. 
